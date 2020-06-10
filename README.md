@@ -41,6 +41,7 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200205095648/http://graydon2.dreamwidth.org/218040.html)
 - [My favorite Rust function](https://blog.jabid.in/2019/10/11/drop.html) - Jaseem Abid
     - [Archived Link](http://web.archive.org/web/20191208051317/https://blog.jabid.in/2019/10/11/drop.html)
+- [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - [picklenerd](https://github.com/picklenerd)
 
 ## Shell
 - [The beauty of UNIX pipelines](https://prithu.xyz/posts/unix-pipeline/) - Prithu Goswami
