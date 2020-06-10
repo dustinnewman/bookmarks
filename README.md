@@ -28,6 +28,10 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200324222621/https://blog.jse.li/posts/torrent/)
 - [Scheduling in Go: Part II](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html) - William Kennedy
     - [Archived Link](http://web.archive.org/web/20200419195832/https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+- [I want off Mr. Golang's wild ride](https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/) - Amos
+    - [Archived Link](http://web.archive.org/web/20200607184004/https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/)
+- [Golang is Trash](http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/) - wesolows
+    - [Archived Link](http://web.archive.org/web/20200429081347/http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/)
 
 ## Rust
 - [Rust: Dropping heavy things in another thread can make your code 10000 times faster](https://abramov.io/rust-dropping-things-in-another-thread) - Aaron Abramov
@@ -36,6 +40,10 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200205095648/http://graydon2.dreamwidth.org/218040.html)
 - [My favorite Rust function](https://blog.jabid.in/2019/10/11/drop.html) - Jaseem Abid
     - [Archived Link](http://web.archive.org/web/20191208051317/https://blog.jabid.in/2019/10/11/drop.html)
+
+## Shell
+- [The beauty of UNIX pipelines](https://prithu.xyz/posts/unix-pipeline/) - Prithu Goswami
+    - [Archived Link](http://web.archive.org/web/20200608133547/https://prithu.xyz/posts/unix-pipeline/)
 
 ## Programming Languages
 - [io language](http://iolanguage.org)
