@@ -5,6 +5,7 @@ A collection of (archived!) articles I enjoyed.
 - [C](#c)
 - [Go](#go)
 - [Rust](#rust)
+- [Shell](#shell)
 - [Programming Languages](#programming-languages)
 - [Distributed Systems](#distributed-systems)
 - [The Web](#the-web)
@@ -66,6 +67,8 @@ A collection of (archived!) articles I enjoyed.
 ## Computing History
 - [Remembering the LAN](https://crawshaw.io/blog/remembering-the-lan) - [David Crawshaw](https://github.com/crawshaw)
     - [Archived Link](http://web.archive.org/web/20200324065424/https://crawshaw.io/blog/remembering-the-lan)
+- [After 10 Years in Tech Isolation, I’m Now Outsider to Things I Once Had Mastered](https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/) - ghostexodus
+    - [Archived Link](http://web.archive.org/web/20200610191010/https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/)
 
 ## Machine Learning
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com) - Thomas Dimson
