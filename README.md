@@ -48,6 +48,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200608133547/https://prithu.xyz/posts/unix-pipeline/)
 
 ## Programming Languages
+- [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html) - Li Haoyi
+    - [Archived Link](http://web.archive.org/web/20200516175818/https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 - [io language](http://iolanguage.org)
 - [The Unison language](https://www.unisonweb.org)
 - [Comparing the Same Project in Rust, Haskell, C++, Python, Scala, and OCaml](https://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) - Tristan Hume
