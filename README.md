@@ -42,6 +42,8 @@ A collection of (archived!) articles I enjoyed.
 - [My favorite Rust function](https://blog.jabid.in/2019/10/11/drop.html) - Jaseem Abid
     - [Archived Link](http://web.archive.org/web/20191208051317/https://blog.jabid.in/2019/10/11/drop.html)
 - [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - [picklenerd](https://github.com/picklenerd)
+- [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
+    - [Archived Link](http://web.archive.org/web/20200609232025/https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
 
 ## Shell
 - [The beauty of UNIX pipelines](https://prithu.xyz/posts/unix-pipeline/) - Prithu Goswami
