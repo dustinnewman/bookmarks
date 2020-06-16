@@ -5,7 +5,7 @@ A collection of (archived!) articles I enjoyed.
 - [C](#c)
 - [Go](#go)
 - [Rust](#rust)
-- [C++](#c++)
+- [C++](#c-1)
 - [Shell](#shell)
 - [Programming Languages](#programming-languages)
 - [Distributed Systems](#distributed-systems)
