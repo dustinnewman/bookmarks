@@ -20,6 +20,8 @@ A collection of (archived!) articles I enjoyed.
 - [Fun!](#fun)
 
 ## C
+- [A beginners' guide *away from* `scanf()`](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html) - Felix Palmen
+    - [Archived Link](http://web.archive.org/web/20200303151230/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 - [Let's Destroy C](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#lets-destroy-c) - [James Milne](https://gist.github.com/shakna-israel)
     - [Archived Link](http://web.archive.org/web/20200201000246/https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163)
 - [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h) - [Jeremy Williams](https://github.com/jeremycw)
