@@ -5,6 +5,7 @@ A collection of (archived!) articles I enjoyed.
 - [C](#c)
 - [Go](#go)
 - [Rust](#rust)
+- [C++](#c++)
 - [Shell](#shell)
 - [Programming Languages](#programming-languages)
 - [Distributed Systems](#distributed-systems)
@@ -44,6 +45,10 @@ A collection of (archived!) articles I enjoyed.
 - [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - [picklenerd](https://github.com/picklenerd)
 - [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
     - [Archived Link](http://web.archive.org/web/20200609232025/https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
+
+## C++
+- [Semantic Compression](https://caseymuratori.com/blog_0015) - Casey Muratori
+    - [Archived Link](http://web.archive.org/web/20200610140043/https://caseymuratori.com/blog_0015)
 
 ## Shell
 - [The beauty of UNIX pipelines](https://prithu.xyz/posts/unix-pipeline/) - Prithu Goswami
