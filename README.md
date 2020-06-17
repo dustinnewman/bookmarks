@@ -8,6 +8,7 @@ A collection of (archived!) articles I enjoyed.
 - [C++](#c-1)
 - [Shell](#shell)
 - [Programming Languages](#programming-languages)
+  - [Type Theory](#type-theory)
 - [Distributed Systems](#distributed-systems)
 - [The Web](#the-web)
 - [Computing History](#computing-history)
@@ -65,6 +66,10 @@ A collection of (archived!) articles I enjoyed.
 - [The Unison language](https://www.unisonweb.org)
 - [Comparing the Same Project in Rust, Haskell, C++, Python, Scala, and OCaml](https://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) - Tristan Hume
     - [Archived Link](http://web.archive.org/web/20200516190823/https://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/)
+
+### Type Theory
+- [What Are Sum, Product, and Pi Types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/) - Manish Goregaokar
+    - [Archived Link](http://web.archive.org/web/20190430025753/https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)
 
 ## Distributed Systems
 - [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls](https://www.cockroachlabs.com/blog/raft-is-so-fetch/) - Mikael Austin
