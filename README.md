@@ -3,8 +3,8 @@ A collection of (archived!) articles I enjoyed.
 
 ## Table of Contents
 - [C](#c)
-- [Go](#go)
 - [Rust](#rust)
+- [Go](#go)
 - [C++](#c-1)
 - [Shell](#shell)
 - [Programming Languages](#programming-languages)
@@ -27,6 +27,19 @@ A collection of (archived!) articles I enjoyed.
 - [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h) - [Jeremy Williams](https://github.com/jeremycw)
     - [Archived Link](http://web.archive.org/web/20191213011043/https://github.com/jeremycw/httpserver.h/blob/master/httpserver.h)
 
+## Rust
+- [Rust: Dropping heavy things in another thread can make your code 10000 times faster](https://abramov.io/rust-dropping-things-in-another-thread) - Aaron Abramov
+    - [Archived Link](http://web.archive.org/web/20200601011946/https://abramov.io/rust-dropping-things-in-another-thread)
+- [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) - Andrew Gallant
+    - [Archived Link](http://web.archive.org/web/20200529165632/https://blog.burntsushi.net/rust-error-handling/)
+- [Things Rust Shipped Without](http://graydon2.dreamwidth.org/218040.html) - Graydon2
+    - [Archived Link](http://web.archive.org/web/20200205095648/http://graydon2.dreamwidth.org/218040.html)
+- [My favorite Rust function](https://blog.jabid.in/2019/10/11/drop.html) - Jaseem Abid
+    - [Archived Link](http://web.archive.org/web/20191208051317/https://blog.jabid.in/2019/10/11/drop.html)
+- [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - [picklenerd](https://github.com/picklenerd)
+- [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
+    - [Archived Link](http://web.archive.org/web/20200609232025/https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
+
 ## Go
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) - Jesse Li
     - [Archived Link](http://web.archive.org/web/20200324222621/https://blog.jse.li/posts/torrent/)
@@ -36,17 +49,6 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200607184004/https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/)
 - [Golang is Trash](http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/) - wesolows
     - [Archived Link](http://web.archive.org/web/20200429081347/http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/)
-
-## Rust
-- [Rust: Dropping heavy things in another thread can make your code 10000 times faster](https://abramov.io/rust-dropping-things-in-another-thread) - Aaron Abramov
-    - [Archived Link](http://web.archive.org/web/20200601011946/https://abramov.io/rust-dropping-things-in-another-thread)
-- [Things Rust Shipped Without](http://graydon2.dreamwidth.org/218040.html) - Graydon2
-    - [Archived Link](http://web.archive.org/web/20200205095648/http://graydon2.dreamwidth.org/218040.html)
-- [My favorite Rust function](https://blog.jabid.in/2019/10/11/drop.html) - Jaseem Abid
-    - [Archived Link](http://web.archive.org/web/20191208051317/https://blog.jabid.in/2019/10/11/drop.html)
-- [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - [picklenerd](https://github.com/picklenerd)
-- [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
-    - [Archived Link](http://web.archive.org/web/20200609232025/https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
 
 ## C++
 - [Semantic Compression](https://caseymuratori.com/blog_0015) - Casey Muratori
