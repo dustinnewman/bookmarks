@@ -31,6 +31,8 @@ A collection of (archived!) articles I enjoyed.
 ## Rust
 - [Rust: Dropping heavy things in another thread can make your code 10000 times faster](https://abramov.io/rust-dropping-things-in-another-thread) - Aaron Abramov
     - [Archived Link](http://web.archive.org/web/20200601011946/https://abramov.io/rust-dropping-things-in-another-thread)
+- [Rust Means Never Having to Close a Socket](https://blog.skylight.io/rust-means-never-having-to-close-a-socket/) - Yehuda Katz
+    - [Archived Link](http://web.archive.org/web/20200527160603/https://blog.skylight.io/rust-means-never-having-to-close-a-socket/)
 - [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) - Andrew Gallant
     - [Archived Link](http://web.archive.org/web/20200529165632/https://blog.burntsushi.net/rust-error-handling/)
 - [Things Rust Shipped Without](http://graydon2.dreamwidth.org/218040.html) - Graydon2
