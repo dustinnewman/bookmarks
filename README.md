@@ -107,6 +107,8 @@ A collection of (archived!) articles I enjoyed.
 ## Cryptography
 - [The Feasibility of Breaking PGP](http://web.textfiles.com/computers/attack.txt) - infiNity
     - [Archived Link](http://web.archive.org/web/20191202074345/http://web.textfiles.com/computers/attack.txt)
+- [How is NSA [sic] breaking so much crypto?](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/) - Alex Halderman and Nadia Heninger
+    - [Archived Link](http://web.archive.org/web/20200621082134/https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 
 ## Cryptocurrency
 - [Cryptography in Bitcoin: How to Create an Address with C](https://nicholasfarrow.com/Cryptography-in-Bitcoin-with-C/) - Nicholas Farrow
