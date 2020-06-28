@@ -54,6 +54,7 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200607184004/https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/)
 - [Golang is Trash](http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/) - wesolows
     - [Archived Link](http://web.archive.org/web/20200429081347/http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/)
+- [Defining interfaces locally](https://github.com/Evertras/go-interface-examples/blob/7463b109c96fddcf7e4a0be2dc7d85187804ee03/local-interfaces/README.md) - Evertras
 
 ## C++
 - [Semantic Compression](https://caseymuratori.com/blog_0015) - Casey Muratori
