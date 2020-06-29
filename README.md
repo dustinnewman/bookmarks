@@ -6,6 +6,7 @@ A collection of (archived!) articles I enjoyed.
 - [Rust](#rust)
 - [Go](#go)
 - [C++](#c-1)
+- [Robotics](#robotics)
 - [Shell](#shell)
 - [Programming Languages](#programming-languages)
   - [Type Theory](#type-theory)
@@ -59,6 +60,10 @@ A collection of (archived!) articles I enjoyed.
 ## C++
 - [Semantic Compression](https://caseymuratori.com/blog_0015) - Casey Muratori
     - [Archived Link](http://web.archive.org/web/20200610140043/https://caseymuratori.com/blog_0015)
+
+## Robotics
+- [Offline Speech Recognition on Raspberry Pi 4 with Respeaker](https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7/) - Dmitry Maslov
+    - [Archived Link](http://web.archive.org/web/20200629145549/https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7)
 
 ## Shell
 - [The beauty of UNIX pipelines](https://prithu.xyz/posts/unix-pipeline/) - Prithu Goswami
