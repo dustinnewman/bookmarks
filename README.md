@@ -2,6 +2,7 @@
 A collection of (archived!) articles I enjoyed.
 
 ## Table of Contents
+- [Meta](#meta)
 - [C](#c)
 - [Rust](#rust)
 - [Go](#go)
@@ -20,6 +21,10 @@ A collection of (archived!) articles I enjoyed.
 - [Cryptocurrency](#cryptocurrency)
 - [Nix](#nix)
 - [Fun!](#fun)
+
+## Meta
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+    - [Archived Link](http://web.archive.org/web/20200722173358/https://www.industrialempathy.comhttps//www.industrialempathy.com/posts/design-docs-at-google/)
 
 ## C
 - [A beginners' guide *away from* `scanf()`](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html) - Felix Palmen
