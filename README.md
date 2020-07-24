@@ -7,6 +7,7 @@ A collection of (archived!) articles I enjoyed.
 - [Rust](#rust)
 - [Go](#go)
 - [C++](#c-1)
+- [Systems Design](#systems-design)
 - [Robotics](#robotics)
 - [Shell](#shell)
 - [Programming Languages](#programming-languages)
@@ -65,6 +66,10 @@ A collection of (archived!) articles I enjoyed.
 ## C++
 - [Semantic Compression](https://caseymuratori.com/blog_0015) - Casey Muratori
     - [Archived Link](http://web.archive.org/web/20200610140043/https://caseymuratori.com/blog_0015)
+
+## Systems Design
+- [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
+    - [Archived Link](http://web.archive.org/web/20200722174147/https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
 ## Robotics
 - [Offline Speech Recognition on Raspberry Pi 4 with Respeaker](https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7/) - Dmitry Maslov
