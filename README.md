@@ -94,6 +94,8 @@ A collection of (archived!) articles I enjoyed.
 ## Distributed Systems
 - [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls](https://www.cockroachlabs.com/blog/raft-is-so-fetch/) - Mikael Austin
     - [Archived Link](http://web.archive.org/web/20200309153916/https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+- [@adlrocha - Network Coding in P2P Networks](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks) - Alfonso de la Rocha
+    - [Archived Link](http://web.archive.org/web/20200824020502/https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks)
 
 ## The Web
 - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/) - Jeff Huang
