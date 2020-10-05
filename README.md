@@ -139,4 +139,5 @@ A collection of (archived!) articles I enjoyed.
 ## Fun!
 - [Controlling my A/C with a Gameboy](http://jg.sn.sg/ir/) - [jg](https://github.com/jglim/)
     - [Archived Link](https://web.archive.org/web/20200509044539/http://jg.sn.sg/ir/)
-
+- [How we ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) - Takaya Saeki
+    - [Archived Link](https://web.archive.org/web/20201005150308/https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
