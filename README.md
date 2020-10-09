@@ -80,6 +80,8 @@ A collection of (archived!) articles I enjoyed.
 ## Shell
 - [The beauty of UNIX pipelines](https://prithu.xyz/posts/unix-pipeline/) - Prithu Goswami
     - [Archived Link](http://web.archive.org/web/20200608133547/https://prithu.xyz/posts/unix-pipeline/)
+- [An Introduction To Data Science On The Linux Command Line](https://blog.robertelder.org/data-science-linux-command-line/) - Robert Elder
+    - [Archived Link](https://web.archive.org/web/20200701164903/https://blog.robertelder.org/data-science-linux-command-line/)
 
 ## Programming Languages
 - [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html) - Li Haoyi
