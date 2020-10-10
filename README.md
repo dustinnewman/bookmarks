@@ -90,6 +90,8 @@ A collection of (archived!) articles I enjoyed.
 - [The Unison language](https://www.unisonweb.org)
 - [Comparing the Same Project in Rust, Haskell, C++, Python, Scala, and OCaml](https://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) - Tristan Hume
     - [Archived Link](http://web.archive.org/web/20200516190823/https://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/)
+- [Classes are just a fancy way of writing higher order functions](https://stopa.io/post/250) - Stepan Parunashvili
+    - [Archived Link](https://web.archive.org/web/20201002053021if_/https://stopa.io/post/250)
 
 ### Type Theory
 - [What Are Sum, Product, and Pi Types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/) - Manish Goregaokar
