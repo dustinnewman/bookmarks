@@ -26,6 +26,8 @@ A collection of (archived!) articles I enjoyed.
 ## Meta
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
     - [Archived Link](http://web.archive.org/web/20200722173358/https://www.industrialempathy.comhttps//www.industrialempathy.com/posts/design-docs-at-google/)
+- [I know this is a linux crowd and all....](https://m.slashdot.org/thread/60594422)
+    - "As an end-user and system administrator with mediocre (at best) programming skills, I've come to realise that freedom isn't all about source code availability but also well-designed core libraries staying relevant for a long time."
 
 ## C
 - [A beginners' guide *away from* `scanf()`](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html) - Felix Palmen
