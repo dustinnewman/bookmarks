@@ -28,6 +28,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200722173358/https://www.industrialempathy.comhttps//www.industrialempathy.com/posts/design-docs-at-google/)
 - [I know this is a linux crowd and all....](https://m.slashdot.org/thread/60594422)
     - "As an end-user and system administrator with mediocre (at best) programming skills, I've come to realise that freedom isn't all about source code availability but also well-designed core libraries staying relevant for a long time."
+- [We’re Optimizing Ourselves to Death](https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/) - Zander Nethercutt
+    - [Archived Link](https://web.archive.org/web/20201122230234/https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/)
 
 ## C
 - [A beginners' guide *away from* `scanf()`](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html) - Felix Palmen
