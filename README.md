@@ -79,7 +79,7 @@ A collection of (archived!) articles I enjoyed.
 
 ## JS
 ### React
-- [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
+- [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks) - Kent C. Dodds
     - [Archived Link](https://web.archive.org/web/20201111210620/https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks/)
 
 ## Systems Design
