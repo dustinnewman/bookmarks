@@ -7,6 +7,7 @@ A collection of (archived!) articles I enjoyed.
 - [Rust](#rust)
 - [Go](#go)
 - [C++](#c-1)
+- [JS](#js)
 - [Systems Design](#systems-design)
 - [Robotics](#robotics)
 - [Shell](#shell)
@@ -72,6 +73,11 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200610140043/https://caseymuratori.com/blog_0015)
 - [Fibers, Oh My!](https://graphitemaster.github.io/fibers/) - Dale Weiler
     - [Archived Link](https://web.archive.org/web/20201005080502/https://graphitemaster.github.io/fibers/)
+
+## JS
+### React
+- [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
+    - [Archived Link](https://web.archive.org/web/20201111210620/https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks/)
 
 ## Systems Design
 - [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
