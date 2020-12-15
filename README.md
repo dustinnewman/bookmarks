@@ -40,7 +40,7 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200201000246/https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163)
 - [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h) - [Jeremy Williams](https://github.com/jeremycw)
     - [Archived Link](http://web.archive.org/web/20191213011043/https://github.com/jeremycw/httpserver.h/blob/master/httpserver.h)
-- [Cryptography in Bitcoin: How to Create an Address with C](https://nicholasfarrow.com/Cryptography-in-Bitcoin-with-C/) - Nicholas Farrow
+- [Cryptography in Bitcoin: How to Create an Address with C](https://nickfarrow.com/Cryptography-in-Bitcoin-with-C/) - Nicholas Farrow
     - [Archived Link](http://web.archive.org/web/20200619075416/https://nicholasfarrow.com/Cryptography-in-Bitcoin-with-C/)
 - [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
     - [Archived Link](https://web.archive.org/web/20201214183449/https://www.ralfj.de/blog/2020/12/14/provenance.html)
