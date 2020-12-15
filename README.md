@@ -42,6 +42,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20191213011043/https://github.com/jeremycw/httpserver.h/blob/master/httpserver.h)
 - [Cryptography in Bitcoin: How to Create an Address with C](https://nicholasfarrow.com/Cryptography-in-Bitcoin-with-C/) - Nicholas Farrow
     - [Archived Link](http://web.archive.org/web/20200619075416/https://nicholasfarrow.com/Cryptography-in-Bitcoin-with-C/)
+- [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+    - [Archived Link](https://web.archive.org/web/20201214183449/https://www.ralfj.de/blog/2020/12/14/provenance.html)
 
 ## Rust
 - [Rust: Dropping heavy things in another thread can make your code 10000 times faster](https://abramov.io/rust-dropping-things-in-another-thread) - Aaron Abramov
@@ -105,6 +107,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200516190823/https://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/)
 - [Classes are just a fancy way of writing higher order functions](https://stopa.io/post/250) - Stepan Parunashvili
     - [Archived Link](https://web.archive.org/web/20201002053021if_/https://stopa.io/post/250)
+- [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+    - [Archived Link](https://web.archive.org/web/20201214183449/https://www.ralfj.de/blog/2020/12/14/provenance.html)
 
 ### Type Theory
 - [What Are Sum, Product, and Pi Types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/) - Manish Goregaokar
