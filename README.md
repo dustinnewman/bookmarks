@@ -146,6 +146,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200605201234/https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
 - [An iOS zero-click radio proximity exploit odyssey](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html) - Ian Beer
     - [Archived Link](https://web.archive.org/web/20201201212708/https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
+- [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/) - David Hu
+    - [Archived Link](https://web.archive.org/web/20210111202354/https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
 
 ## Cryptography
 - [The Feasibility of Breaking PGP](http://web.textfiles.com/computers/attack.txt) - infiNity
