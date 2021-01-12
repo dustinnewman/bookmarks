@@ -19,7 +19,7 @@ A collection of (archived!) articles I enjoyed.
 - [Computing History](#computing-history)
 - [Machine Learning](#machine-learning)
 - [Automata Theory](#automata-theory)
-- [Cybersecurity](#cybersecurity)
+- [Information Security](#information-security)
 - [Cryptography](#cryptography)
 - [Cryptocurrency](#cryptocurrency)
 - [Nix](#nix)
@@ -141,7 +141,7 @@ A collection of (archived!) articles I enjoyed.
 - [Scooping the Loop Snooper: A proof that the Halting Problem is undecidable](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html) - Geoffrey Pullum, 2000
     - [Archived Link](http://web.archive.org/web/20200529174345/http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
 
-## Cybersecurity
+## Information Security
 - [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/) - Bhavuk Jain
     - [Archived Link](http://web.archive.org/web/20200605201234/https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
 - [An iOS zero-click radio proximity exploit odyssey](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html) - Ian Beer
