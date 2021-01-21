@@ -59,6 +59,8 @@ A collection of (archived!) articles I enjoyed.
 - [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - [picklenerd](https://github.com/picklenerd)
 - [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
     - [Archived Link](http://web.archive.org/web/20200609232025/https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
+- [So you want to live-reload Rust](https://fasterthanli.me/articles/so-you-want-to-live-reload-rust)
+    - [Archived Link](https://web.archive.org/web/20210110231243/https://fasterthanli.me/articles/so-you-want-to-live-reload-rust)
 
 ## Go
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) - Jesse Li
