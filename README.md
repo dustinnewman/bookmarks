@@ -61,6 +61,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](http://web.archive.org/web/20200609232025/https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
 - [So you want to live-reload Rust](https://fasterthanli.me/articles/so-you-want-to-live-reload-rust)
     - [Archived Link](https://web.archive.org/web/20210110231243/https://fasterthanli.me/articles/so-you-want-to-live-reload-rust)
+- [So Many Ref Types (Rustioms)](https://simonkjohnston.life/code/2020/04/17/So-Many-Ref-Types-Rustioms.html) - Simon K. Johnston
+    - [Archived Link]()
 
 ## Go
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) - Jesse Li
