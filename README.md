@@ -7,6 +7,7 @@ A collection of (archived!) articles I enjoyed.
 - [Rust](#rust)
 - [Go](#go)
 - [C++](#c-1)
+- [Swift](#swift)
 - [JS](#js)
   - [React](#react)
 - [Systems Design](#systems-design)
@@ -82,6 +83,10 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](https://web.archive.org/web/20201005080502/https://graphitemaster.github.io/fibers/)
 - [What Are Coroutines?](https://stackoverflow.com/a/44244451) - Stack Overflow
     - [Archived Link](https://web.archive.org/web/20201111162040/https://stackoverflow.com/questions/43503656/what-are-coroutines-in-c20)
+
+## Swift
+- [Swift on the Server in 2020](https://theswiftdev.com/swift-on-the-server-in-2020/)
+    - [Archived Link](https://web.archive.org/web/20210425182921/https://theswiftdev.com/swift-on-the-server-in-2020/)
 
 ## JS
 ### React
