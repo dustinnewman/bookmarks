@@ -171,6 +171,8 @@ A collection of (archived!) articles I enjoyed.
 
 ## Nix
 - [Original PhD Thesis: The Purely Functional Software Deployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf) - Eelco Dolstra
+- [Towards a content-addressed model for Nix](https://www.tweag.io/blog/2020-09-10-nix-cas/) - Théophane Hufschmitt
+    - [Archived Link](https://web.archive.org/web/20210507072713/https://www.tweag.io/blog/2020-09-10-nix-cas/)
 
 ## Fun!
 - [Controlling my A/C with a Gameboy](http://jg.sn.sg/ir/) - [jg](https://github.com/jglim/)
