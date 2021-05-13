@@ -9,6 +9,7 @@ A collection of (archived!) articles I enjoyed.
 - [C++](#c-1)
 - [Swift](#swift)
 - [JS](#js)
+  - [Frontend](#frontend)
   - [React](#react)
 - [Systems Design](#systems-design)
 - [Robotics](#robotics)
@@ -89,6 +90,10 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](https://web.archive.org/web/20210425182921/https://theswiftdev.com/swift-on-the-server-in-2020/)
 
 ## JS
+### Frontend
+- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
+   - [Archived Link](http://web.archive.org/web/20210513004024/https://evertpot.com/jwt-is-a-bad-default/)
+
 ### React
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks) - Kent C. Dodds
     - [Archived Link](https://web.archive.org/web/20201111210620/https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks/)
