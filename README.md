@@ -114,7 +114,7 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](https://web.archive.org/web/20200701164903/https://blog.robertelder.org/data-science-linux-command-line/)
 
 ## Haskell
-- [Implementing an LLVM Micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/) - Joseph Morag
+- [Implementing an LLVM Micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/) - [Joseph Morag](https://blog.josephmorag.com/)
     - [Archived Link](http://web.archive.org/web/20210604155431/https://blog.josephmorag.com/posts/mcc0/)
 
 ## Programming Languages
