@@ -112,6 +112,9 @@ A collection of (archived!) articles I enjoyed.
 - [An Introduction To Data Science On The Linux Command Line](https://blog.robertelder.org/data-science-linux-command-line/) - Robert Elder
     - [Archived Link](https://web.archive.org/web/20200701164903/https://blog.robertelder.org/data-science-linux-command-line/)
 
+## Haskell
+- [Implementing an LLVM Micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/) - Joseph Morag
+
 ## Programming Languages
 - [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html) - Li Haoyi
     - [Archived Link](http://web.archive.org/web/20200516175818/https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
