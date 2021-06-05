@@ -14,6 +14,7 @@ A collection of (archived!) articles I enjoyed.
 - [Systems Design](#systems-design)
 - [Robotics](#robotics)
 - [Shell](#shell)
+- [Haskell](#haskell)
 - [Programming Languages](#programming-languages)
   - [Type Theory](#type-theory)
 - [Distributed Systems](#distributed-systems)
@@ -114,6 +115,7 @@ A collection of (archived!) articles I enjoyed.
 
 ## Haskell
 - [Implementing an LLVM Micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/) - Joseph Morag
+    - [Archived Link](http://web.archive.org/web/20210604155431/https://blog.josephmorag.com/posts/mcc0/)
 
 ## Programming Languages
 - [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html) - Li Haoyi
