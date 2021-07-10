@@ -7,6 +7,7 @@ A collection of (archived!) articles I enjoyed.
 - [Rust](#rust)
 - [Go](#go)
 - [C++](#c-1)
+- [Deployment](#deployment)
 - [Swift](#swift)
 - [JS](#js)
   - [Frontend](#frontend)
