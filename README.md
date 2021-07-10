@@ -86,6 +86,10 @@ A collection of (archived!) articles I enjoyed.
 - [What Are Coroutines?](https://stackoverflow.com/a/44244451) - Stack Overflow
     - [Archived Link](https://web.archive.org/web/20201111162040/https://stackoverflow.com/questions/43503656/what-are-coroutines-in-c20)
 
+## Deployment
+- [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html) - [Micah Lerner](https://www.micahlerner.com/)
+    - [Archived Link](http://web.archive.org/web/20210621171544/https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html)
+
 ## Swift
 - [Swift on the Server in 2020](https://theswiftdev.com/swift-on-the-server-in-2020/)
     - [Archived Link](https://web.archive.org/web/20210425182921/https://theswiftdev.com/swift-on-the-server-in-2020/)
