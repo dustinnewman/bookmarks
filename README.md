@@ -137,6 +137,8 @@ A collection of (archived!) articles I enjoyed.
 ### Type Theory
 - [What Are Sum, Product, and Pi Types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/) - Manish Goregaokar
     - [Archived Link](http://web.archive.org/web/20190430025753/https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)
+- [Typestate-Oriented Programming](https://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf)
+    - https://doi.org/10.1145/1639950.1640073
 
 ## Distributed Systems
 - [Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls](https://www.cockroachlabs.com/blog/raft-is-so-fetch/) - Mikael Austin
