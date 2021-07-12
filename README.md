@@ -78,6 +78,8 @@ A collection of (archived!) articles I enjoyed.
 - [Golang is Trash](http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/) - wesolows
     - [Archived Link](http://web.archive.org/web/20200429081347/http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/)
 - [Defining interfaces locally](https://github.com/Evertras/go-interface-examples/blob/7463b109c96fddcf7e4a0be2dc7d85187804ee03/local-interfaces/README.md) - Evertras
+- [The acme of foolishness](https://dave.cheney.net/2014/03/19/channel-axioms) - [Dave Cheney](https://dave.cheney.net)
+    - [Archived Link](http://web.archive.org/web/20210712230120/https://dave.cheney.net/2014/03/19/channel-axioms)
 
 ## C++
 - [Semantic Compression](https://caseymuratori.com/blog_0015) - Casey Muratori
