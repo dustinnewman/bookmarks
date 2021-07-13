@@ -90,6 +90,8 @@ A collection of (archived!) articles I enjoyed.
     - [Archived Link](https://web.archive.org/web/20201111162040/https://stackoverflow.com/questions/43503656/what-are-coroutines-in-c20)
 
 ## Deployment
+- [Kubernetes is a container orchestration system, but that's not the point.](https://nikhiljha.com/posts/kubernetes-intro/) - [Nikhil Jha](https://nikhiljha.com/)
+    - [Archived Link](http://web.archive.org/web/20210713153256/https://nikhiljha.com/posts/kubernetes-intro/)
 - [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html) - [Micah Lerner](https://www.micahlerner.com/)
     - [Archived Link](http://web.archive.org/web/20210621171544/https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html)
 
